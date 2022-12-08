@@ -1,6 +1,7 @@
 ### Hi there! I'm Daniel Santos 👋
   ##
   ### Affiliations
+   - Software Engineer Intern at **Jusbrasil**.
    - Front-end development intern at **TCE-PB**.
    - Data Science and Artificial Intelligence Undergraduate at **UFPB**.
    - [Technology and Artificial Intelligence League](https://github.com/TailUFPB) member on NLP board.
