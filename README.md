@@ -2,11 +2,11 @@
   ##
   ### Affiliations
    - Software Engineer Intern at **Jusbrasil**.
-   - Front-end development intern at **TCE-PB**.
+   - Full stack development intern at **TCE-PB**.
    - Data Science and Artificial Intelligence Undergraduate at **UFPB**.
-   - [Technology and Artificial Intelligence League](https://github.com/TailUFPB) member on NLP board.
   ### Personal
-   - Developing [Athena](https://github.com/DanielSant0s/AthenaEnv): A complete JavaScript environment for the PlayStation 2.
+   - Developing [Athena](https://github.com/DanielSant0s/AthenaEnv): A complete JavaScript OS layer for the PlayStation 2.
+   - Homebrew retrogaming scene regular contributor. Libraries, apps, games, mods and more :D
    - Reverse Engineering Addict: Understanding how things are done is also a part of enjoying them.
    - Funfact: I love working with game-related stuff, but not necessarily playing.
  
@@ -26,6 +26,10 @@
   <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+<img align="center" alt="scala" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg">
+<img align="center" alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+<img align="center" alt="msdos" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg">
+    <img align="center" alt="markdown" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
 </div>
   
   <div align="center" style="display: inline_block"><br>
@@ -36,6 +40,14 @@
   <img align="center" alt="numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   <img align="center" alt="pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
 <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="ogl" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg">
+<img align="center" alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+<img align="center" alt="nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+<img align="center" alt="sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+<img align="center" alt="npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+<img align="center" alt="nginx" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
+<img align="center" alt="jquery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
+<img align="center" alt="docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div>
 
   ##
