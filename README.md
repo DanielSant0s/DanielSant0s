@@ -2,8 +2,11 @@
   ##
   ### Affiliations
    - Software Engineer Intern at **Jusbrasil**.
-   - Full stack development intern at **TCE-PB**.
    - Data Science and Artificial Intelligence Undergraduate at **UFPB**.
+
+  ### Past experiences
+   - Full stack development intern at **TCE-PB**.
+
   ### Personal
    - Developing [Athena](https://github.com/DanielSant0s/AthenaEnv): A complete JavaScript OS layer for the PlayStation 2.
    - Homebrew retrogaming scene regular contributor. Libraries, apps, games, mods and more :D
