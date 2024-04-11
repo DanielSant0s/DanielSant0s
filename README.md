@@ -1,11 +1,12 @@
 ### Hi there! I'm Daniel Santos 👋
   ##
   ### Affiliations
-   - Software Engineer Intern at **Jusbrasil**.
+   - Junior Software Engineer at **Jusbrasil**.
    - Data Science and Artificial Intelligence Undergraduate at **UFPB**.
 
   ### Past experiences
    - Full stack development intern at **TCE-PB**.
+   - Software Engineer Intern at **Jusbrasil**.
 
   ### Personal
    - Developing [Athena](https://github.com/DanielSant0s/AthenaEnv): A complete JavaScript OS layer for the PlayStation 2.
