@@ -1,10 +1,10 @@
 ### Hi there! I'm Daniel Santos 👋
   ##
   ### Affiliations
-   - Junior Software Engineer at **Jusbrasil**.
    - Data Science and Artificial Intelligence Undergraduate at **UFPB**.
 
   ### Past experiences
+   - Junior Software Engineer at **Jusbrasil**.
    - Full stack development intern at **TCE-PB**.
    - Software Engineer Intern at **Jusbrasil**.
 
