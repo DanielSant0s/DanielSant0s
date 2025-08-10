@@ -2,6 +2,7 @@
   ##
   ### Affiliations
    - Data Science and Artificial Intelligence Undergraduate at **UFPB**.
+   - AI Supervisor at **Ikli**
 
   ### Past experiences
    - Junior Software Engineer at **Jusbrasil**.
