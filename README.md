@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=GREETINGS+PROGRAM!+🤖;INITIALIZING+DANIELSANT0S.EXE...;WELCOME+TO+MY+TERMINAL+🕹️&font=Press+Start+2P&center=true&width=850&height=50px&color=FFFFFF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=GREETINGS+PROGRAM!+🤖;INITIALIZING+DANIEL_SANTOS.EXE...;WELCOME+TO+MY+TERMINAL+🕹️&font=Press+Start+2P&center=true&width=850&height=50px&color=FFFFFF">
 </h1>
 
 <p align="center">
@@ -9,8 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/DanielSant0s">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DanielSant0s&show_icons=true&theme=radical&include_all_commits=true&count_private=true&config_readme=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSant0s&layout=compact&theme=radical"/>
+    <img src="https://raw.githubusercontent.com/DanielSant0s/DanielSant0s/main/github-metrics.svg" alt="GitHub Metrics" />
   </a>
 </div>
 
