@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="771" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="949" class="">
   
 
   <defs><style>@font-face {
@@ -36,7 +36,7 @@
 <pre><div class="stdin"><span class="ps1-path">danielsant0s@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
   <b> 2226</b> commits
   <b>    0</b> pull requests reviewed
-  <b>   22</b> pull requests opened
+  <b>   20</b> pull requests opened
   <b>    0</b> issues opened
   <b>   50</b> issue comments
 
@@ -47,12 +47,22 @@
   <b>   44</b> repositories watched
 </div>
 <div class="stdin"><span class="ps1-path">danielsant0s@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 83 repositories - 6.42 GB
--r--  <b>    0</b>  stargazers
--r--  <b>    0</b>  forks
--r--  <b>    0</b>  watchers
+-r--  <b> 1024</b>  stargazers
+-r--  <b>   87</b>  forks
+-r--  <b>   94</b>  watchers
 dr-x  <b>    0</b>  packages
+dr-x         LICENSE
+-r--         └── MIT
 </div>
-<div class="stdin"><span class="ps1-path">danielsant0s@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"></div>
+<div class="stdin"><span class="ps1-path">danielsant0s@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C           </b> [##############      ] 69.45%
+<b>ROFF        </b> [###                 ] 10.39%
+<b>C++         </b> [##                  ] 8.68 %
+<b>LUA         </b> [#                   ] 3.60 %
+<b>ASSEMBLY    </b> [#                   ] 2.98 %
+<b>JAVA        </b> [#                   ] 1.83 %
+<b>JAVASCRIPT  </b> [#                   ] 1.66 %
+<b>PYTHON      </b> [#                   ] 1.41 %
+</div>
 <div class="stdin"><span class="ps1-path">danielsant0s@metrics</span>:<span class="ps1-location">~</span># ncal -MB5</div><div class="stdout"><div class="isocalendar">
             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin-top: -130px;" viewBox="0,0 480,170">
               
@@ -981,8 +991,13 @@ dr-x  <b>    0</b>  packages
                       <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.125 0,2.125 z"/>
                       <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.125 1.7,3.125 z"/>
+                    </g>
+                    <g transform="translate(-1.7, 7)">
+                      <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                     </g></g></g></svg></div>
-<b>    4</b> consecutive days with commits
+<b>    0</b> consecutive days with commits
 <b>~0.90</b> commits per day in average
 </div>
 
