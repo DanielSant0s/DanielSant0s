@@ -34,7 +34,7 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">danielsant0s@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 2677</b> commits
+  <b> 2690</b> commits
   <b>    0</b> pull requests reviewed
   <b>   19</b> pull requests opened
   <b>    0</b> issues opened
@@ -54,14 +54,14 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 </div>
-<div class="stdin"><span class="ps1-path">danielsant0s@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C           </b> [##############      ] 68.22%
-<b>ROFF        </b> [###                 ] 10.21%
-<b>C++         </b> [##                  ] 8.53 %
-<b>LUA         </b> [#                   ] 3.54 %
-<b>ASSEMBLY    </b> [#                   ] 2.93 %
-<b>TYPESCRIPT  </b> [#                   ] 2.86 %
+<div class="stdin"><span class="ps1-path">danielsant0s@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C           </b> [##############      ] 68.11%
+<b>ROFF        </b> [###                 ] 10.19%
+<b>C++         </b> [##                  ] 8.51 %
+<b>LUA         </b> [#                   ] 3.53 %
+<b>TYPESCRIPT  </b> [#                   ] 3.00 %
+<b>ASSEMBLY    </b> [#                   ] 2.92 %
 <b>JAVA        </b> [#                   ] 1.93 %
-<b>JAVASCRIPT  </b> [#                   ] 1.79 %
+<b>GO          </b> [#                   ] 1.79 %
 </div>
 <div class="stdin"><span class="ps1-path">danielsant0s@metrics</span>:<span class="ps1-location">~</span># ncal -MB5</div><div class="stdout"><div class="isocalendar">
             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin-top: -130px;" viewBox="0,0 480,170">
@@ -991,9 +991,14 @@ dr-x         LICENSE
                       <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.795918367346939 0,4.795918367346939 z"/>
                       <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.795918367346939 1.7,5.795918367346939 z"/>
+                    </g>
+                    <g transform="translate(-1.7, 4.673469387755102)">
+                      <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.326530612244898 0,3.326530612244898 z"/>
+                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.326530612244898 1.7,4.326530612244898 z"/>
                     </g></g></g></svg></div>
-<b>    7</b> consecutive days with commits
-<b>~2.41</b> commits per day in average
+<b>    8</b> consecutive days with commits
+<b>~2.50</b> commits per day in average
 </div>
 
 
