@@ -34,9 +34,9 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">danielsant0s@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 2743</b> commits
+  <b> 2756</b> commits
   <b>    0</b> pull requests reviewed
-  <b>   22</b> pull requests opened
+  <b>   23</b> pull requests opened
   <b>    0</b> issues opened
   <b>   54</b> issue comments
 
@@ -55,11 +55,11 @@ dr-x         LICENSE
 -r--         └── MIT
 </div>
 <div class="stdin"><span class="ps1-path">danielsant0s@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C           </b> [#############       ] 61.82%
-<b>C++         </b> [####                ] 15.34%
+<b>C++         </b> [####                ] 15.33%
 <b>ROFF        </b> [##                  ] 9.34 %
 <b>LUA         </b> [#                   ] 3.23 %
 <b>MAKEFILE    </b> [#                   ] 3.12 %
-<b>TYPESCRIPT  </b> [#                   ] 2.70 %
+<b>TYPESCRIPT  </b> [#                   ] 2.71 %
 <b>ASSEMBLY    </b> [#                   ] 2.68 %
 <b>JAVA        </b> [#                   ] 1.77 %
 </div>
@@ -996,9 +996,14 @@ dr-x         LICENSE
                       <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.36734693877551 0,1.3673469387755102 z"/>
                       <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3673469387755102 1.7,2.36734693877551 z"/>
+                    </g>
+                    <g transform="translate(-3.4, 6.285714285714286)">
+                      <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
+                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
                     </g></g></g></svg></div>
-<b>   15</b> consecutive days with commits
-<b>~2.69</b> commits per day in average
+<b>   16</b> consecutive days with commits
+<b>~2.75</b> commits per day in average
 </div>
 
 
